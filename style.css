@@ -14,7 +14,7 @@
   width: 100%;
 }
 .header,
-.more-inf {
+.header__link {
   font-family: fantasy, cursive;
 }
 
@@ -43,7 +43,7 @@
   padding: 0px;
 }
 .task-list__item,
-.heading {
+.todo_heading {
   list-style: none;
 }
 .input-text,
